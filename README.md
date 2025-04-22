@@ -1,4 +1,4 @@
-## Quiz Generator 
+# Quiz Generator 
 
 Contributors:
 Aditya Gajjar (KU2407U392)
