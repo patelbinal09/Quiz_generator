@@ -3,7 +3,7 @@
 Contributors:
 Aditya Gajjar (KU2407U392)
 Prachi Kakdiya (KU2407U432)
-Patel Bina; (KU2407U729)
+Patel Binal (KU2407U729)
 
 # Quiz Generation from Paragraph using NLP
 The project focuses on generating multiple-choice quiz questions from a paragraph of text using Natural Language Processing (NLP). When a user submits a paragraph, the application first splits it into individual sentences using sentence tokenization. Each sentence is then broken into words, and these words are tagged with their grammatical roles using part-of-speech tagging. From these tagged words, important ones—specifically nouns and verbs—are extracted. One of these is selected as the correct answer, while others serve as distractors to form a four-option MCQ. This approach enables automatic quiz generation without manual effort, making it useful for educational or training applications.
